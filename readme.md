@@ -5,8 +5,6 @@ This project's origin is [here](https://github.com/weaviate/weaviate-examples/tr
 ## Description
 In this demo, we will use Weaviate to create an image-search application. We'll develop a dog image-search application that lets users upload a photo of a dog and receive a list of dog breeds that are the most similar.
 
-(TODO: Add demo video)
-
 ## Used Technologies
 Weaviate Vector DB
 Python Programming Language (v3.10+)
